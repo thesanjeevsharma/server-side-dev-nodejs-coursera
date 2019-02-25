@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-course",
+  "version": "1.0.0",
+  "description": "Server-side development with NodeJS on Coursera",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "watch": "nodemon index.js"
+  },
+  "author": "Sanjeev Sharma",
+  "license": "ISC"
+}
